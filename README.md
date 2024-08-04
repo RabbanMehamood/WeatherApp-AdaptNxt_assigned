@@ -8,7 +8,7 @@ Welcome to the Weather App documentation. This application provides users with r
 
 To run the Weather App locally, follow these steps:
 
-1. Clone the repository : git clone https://github.com/~.git
+1. Clone the repository : git clone https://github.com/RabbanMehamood/WeatherApp-AdaptNxt_assigned.git
 
 2. Navigate to the project directory
    cd WEATHER-APP
