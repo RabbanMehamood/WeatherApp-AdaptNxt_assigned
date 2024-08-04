@@ -1,0 +1,22 @@
+.Temperature {
+  margin-top: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#temperature {
+  font-size: 8rem;
+  padding-left: 1rem;
+}
+
+.units {
+  font-size: 5rem;
+  font-weight: 700;
+  position: relative;
+  top: -20px;
+  margin-left: 0.5rem;
+}
+
+
+
