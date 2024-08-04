@@ -11,7 +11,7 @@ To run the Weather App locally, follow these steps:
 1. Clone the repository : git clone https://github.com/RabbanMehamood/WeatherApp-AdaptNxt_assigned.git
 
 2. Navigate to the project directory
-   cd WEATHER-APP
+   cd WeatherApp-AdaptNxt_assigned
 
 3. Install dependencies: npm install
 
