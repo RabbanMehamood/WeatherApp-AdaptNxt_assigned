@@ -1,6 +1,7 @@
 //import { useEffect, useState } from "react";
 import "./App.css";
 import SearchForm from "./components/SearchForm";
+import Suggestions from "./components/Suggestions";
 // import axios from "axios";
 
 function App() {
@@ -11,7 +12,7 @@ function App() {
         <div className="weather-app-wrapper">
           <div className="weather-app rounded-4">
             <SearchForm defaultCity={"bangalore"} />
-          </div>
+            <Suggestions history={}/>         </div>
         </div>
       </div>
     </div>
