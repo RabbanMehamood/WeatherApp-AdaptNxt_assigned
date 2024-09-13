@@ -12,7 +12,8 @@ function App() {
         <div className="weather-app-wrapper">
           <div className="weather-app rounded-4">
             <SearchForm defaultCity={"bangalore"} />
-            <Suggestions history={}/>         </div>
+            <Suggestions history={}/>        
+   </div>
         </div>
       </div>
     </div>
